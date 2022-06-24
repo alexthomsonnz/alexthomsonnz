@@ -5,7 +5,9 @@
 ##  I'm Alex Thomson
 
 Full-Stack Developer based in Wellington, NZ
-Software Developer @ [Sharesies]()
+
+Software Developer @ [Sharesies](https://sharesies.nz)
+
 Cofounder of [Amplifier](https://amplifier.community/), [Source Development](https://sourcedevelopment.co.nz/)
 
 - ⚡ My Tech Stack of choice is React, Koa, Prisma & PostgreSQL
